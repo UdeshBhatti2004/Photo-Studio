@@ -88,17 +88,6 @@ Confirmation email to user
 
 Toast notification confirms submission
 
-🔐 Environment Variables
-
-Create a .env.local file:
-
-EMAIL_HOST=smtp.gmail.com
-EMAIL_PORT=587
-EMAIL_USER=yourgmail@gmail.com
-EMAIL_PASS=your_gmail_app_password
-STUDIO_EMAIL=yourstudio@email.com
-
-
 ⚠️ Use Gmail App Passwords, not your real Gmail password.
 
 🚀 Getting Started
